@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="D:/Dev/플러그인/bukkit-1.5.2-R0.2-20130507.060121-3.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/플러그인/bukkit-1.7.10-R0.1-20140808.005150-4.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/플러그인/bukkit-1.8.8-R0.1-SNAPSHOT-latest.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/플러그인/cauldron-1.7.10-1.1231.04.209-patched-installer.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/플러그인/craftbukkit-1.5.2-R3.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/플러그인/craftbukkit-1.7.10-R0.1-20140808.005431-8.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/플러그인/craftbukkit-1.8.8-R0.1-SNAPSHOT-latest.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/플러그인/mcpc-plus-1.5.2-R1.1-forge738-B653.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/플러그인/mcpc-plus-1.6.4-R2.1-forge965-B251.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/플러그인/PaperSpigot-1.7.10-R0.1-SNAPSHOT-latest.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/플러그인/PaperSpigot-1.8.8-R0.1-SNAPSHOT-latest.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/플러그인/spigot-1.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/플러그인/spigot-1.5.2-R1.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/플러그인/spigot-1.7.10-SNAPSHOT-b1657.jar"/>
+	<classpathentry kind="lib" path="D:/Dev/플러그인/spigot-1.8.8-R0.1-SNAPSHOT-latest.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

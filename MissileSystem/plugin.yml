@@ -1,0 +1,8 @@
+name: MissileSystem
+main: com.SHGroup.MissileSystem.Main
+version: 1.0
+author: SHGroup
+
+commands:
+  미사일:
+    description: MissileSystem
